@@ -1,6 +1,6 @@
-# Maintainer: Mark Wagie <mark dot wagie at proton dot me>
-pkgname=tela-icon-theme
-_pkgver=2025-02-10
+# Maintainer: Itsuki0222 <krypton@f5.si>
+pkgname=tela-icon-theme-krypton
+_pkgver=2025-04-17
 pkgver=${_pkgver//-/.}
 pkgrel=1
 pkgdesc="A flat colorful design icon theme."
